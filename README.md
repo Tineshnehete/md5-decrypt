@@ -3,7 +3,7 @@
 It is not for advanced use but work in some cases.
 
 
-##Flexible
+## Flexible
 
 
 
